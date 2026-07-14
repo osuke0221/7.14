@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      goukaku-penguin-1024x1024_0: 8453811851590196433
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
